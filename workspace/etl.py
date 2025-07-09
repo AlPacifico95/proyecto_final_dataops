@@ -15,4 +15,4 @@ print("\n Resumen por categoría:")
 print(resumen)
 
 # Información adicional
-print("\n Proceso ETL finalizado correctamente.")
+print("\n Proceso ejecutado desde la rama-etl correctamente.")
